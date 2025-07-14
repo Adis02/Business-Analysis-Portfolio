@@ -1,12 +1,11 @@
-# Business-Analysis-Portfolio
-Portfolio showcasing data analysis projects and skills
-
 # Aditya Singla - Business Analyst & Data Analytics Portfolio
 
 ## About
 Hi, I'm Aditya Singla! I am a results-driven Business Analyst with 1+ years of experience in systems development, data analytics, and stakeholder collaboration at Apollo 24|7. I specialize in BigQuery SQL, Python, Tableau, and healthcare analytics, with proven expertise in building data pipelines that process 200+ GB of daily transaction data.
 
 My background includes recovering ₹18 crore in unbilled revenue through automated financial reconciliation models, developing 100+ automated ETL processes, and creating real-time dashboards that drive strategic business decisions. I am passionate about transforming complex healthcare data into actionable insights that directly impact business growth and operational efficiency.
+
+At Apollo 24|7, I contribute to the Business Intelligence and Analytics team by developing multipurpose dynamic dashboards that enhance management's understanding of business flow, facilitate targeted marketing and customer acquisition, and provide stakeholders with insights into investment performance. I enable seamless financial tracking and operational efficiency through sophisticated data reconciliation processes for corporate partnerships while developing user journey funnels and automating data updates.
 
 My resume: [Aditya Singla Resume](./Aditya%20Singla.pdf)
 
@@ -28,20 +27,20 @@ This repository showcases my data analysis skills, business intelligence project
 Here are some of my key data analysis and business intelligence projects:
 
 ### SQL & Data Pipelines
-#### [Your SQL Project Name]
-**Goal:** [Brief description of what you wanted to achieve]
+#### WebApp Tracking Data Generation & Analysis
+**Goal:** To generate comprehensive web application tracking data for analytics and create interactive dashboards for business insights
 
-**Description:** [Detailed description of the project, dataset, and your approach. Mention if it involves healthcare data, financial analysis, or similar to your Apollo work]
+**Description:** This project demonstrates end-to-end data pipeline development using BigQuery SQL to generate realistic web application tracking data. The project includes user journey tracking, session analytics, conversion funnel analysis, and performance metrics - similar to the healthcare analytics work performed at Apollo 24|7. The generated dataset simulates real-world user behavior patterns, enabling comprehensive business intelligence analysis.
 
-**Skills:** BigQuery SQL, ETL processes, data modeling, performance optimization
+**Skills:** BigQuery SQL, data generation, ETL processes, data modeling, performance optimization, dashboard integration
 
-**Technology:** BigQuery, SQL, Looker, [other tools used]
+**Technology:** BigQuery, SQL, Looker Studio, data visualization
 
-**Results:** [Key findings and business impact - try to quantify like you did with revenue recovery]
+**Results:** Created a comprehensive tracking dataset with user sessions, page views, conversion events, and performance metrics. Built interactive Looker dashboard providing real-time insights into user behavior, conversion rates, and business KPIs.
 
-**Code:** [`project-file.sql`](link-to-your-sql-file)
+**Code:** [`WebApp_Tracking_Data_Generation.sql`](https://github.com/Adis02/Business-Analysis-Portfolio/blob/main/WebApp_Tracking_Data_Generation.sql)
 
-**Dashboard:** [Looker Dashboard]([link-to-your-looker-dashboard](https://lookerstudio.google.com/reporting/003600bf-c231-4859-aea9-2e751ce1198a))
+**Dashboard:** [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/003600bf-c231-4859-aea9-2e751ce1198a)
 
 ### Python Automation
 #### Revenue Recovery Automation (Conceptual)
@@ -92,31 +91,36 @@ Here are some of my key data analysis and business intelligence projects:
 - Collaborated with 4 cross-functional teams on KPI tracking systems
 
 ## Education
-**Bachelor of Engineering - Electronics and Communication**  
+**Bachelor of Technology - Electronics and Communication Engineering**  
 Thapar Institute of Engineering & Technology, Patiala  
-2020 – 2024
+August 2020 – July 2024
 
-**AISSCE (Class XII) - Science with Computer Science**  
-Mayo International School, Delhi  
-2020 | 93.8%
+**High School Diploma (12th)**  
+Mayo International School, India  
+2020
+
+**High School Diploma (10th)**  
+Delhi Public School Ghaziabad Vasundhara  
+2018
 
 ## Certifications
 **Google Cloud & Business Intelligence**
-- [Foundations of Business Intelligence](link-if-available) (April 2025) - Google Cloud
-- [The Path to Insights: Data Models and Pipelines](link-if-available) (May 2025) - Google Cloud
+- [Google Business Intelligence](link-if-available) (Completed) - Google Cloud
+- [Foundations of Business Intelligence](link-if-available) (Completed) - Google Cloud
 
 **Data Analytics & Visualization**
-- [SQL Bootcamp](link-if-available) (Feb 2024) - Udemy
-- [Advanced Tableau Visualization](link-if-available) (May 2024) - Udemy
+- [Microsoft Excel: Advanced Excel Formulas & Functions](link-if-available) (Completed) - Microsoft
+- [Decisions, Decisions: Dashboards and Reports](link-if-available) (Completed) - Coursera
 
-**Project Management**
-- [Project Management Fundamentals](link-if-available) (August 2023) - NASBA
+**Business Strategy & Consulting**
+- [BCG's Strategy Consulting Simulation](link-if-available) (Completed) - BCG
 
 ## Technical Skills
 - **Analytics:** BigQuery SQL, Python, ETL Pipelines, Data Modeling, KPI Development
-- **Visualization:** Tableau, Looker, Advanced Excel, Power Query
+- **Visualization:** Tableau, Looker Studio, Advanced Excel, Power Query
 - **Automation:** VBA, Python scripts, Jenkins, automated reporting
 - **Business Intelligence:** Requirements gathering, process optimization, financial analysis
+- **Core Competencies:** Data-Driven Insights, Stakeholder Management, Product Marketing
 - **Industry Focus:** Healthcare Analytics, Pharmaceutical Sales
 
 ## Contact
@@ -124,4 +128,4 @@ Mayo International School, Delhi
 - Email: adityasingla002@gmail.com
 - University Email: asingla_be20@thapar.edu
 - Phone: +91-8368465714
-- GitHub: [Your GitHub Profile](your-github-profile-url)
+- GitHub: [github.com/Adis02](https://github.com/Adis02)
