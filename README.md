@@ -41,7 +41,7 @@ Here are some of my key data analysis and business intelligence projects:
 
 **Code:** [`project-file.sql`](link-to-your-sql-file)
 
-**Dashboard:** [Looker Dashboard](link-to-your-looker-dashboard)
+**Dashboard:** [Looker Dashboard]([link-to-your-looker-dashboard](https://lookerstudio.google.com/reporting/003600bf-c231-4859-aea9-2e751ce1198a))
 
 ### Python Automation
 #### Revenue Recovery Automation (Conceptual)
