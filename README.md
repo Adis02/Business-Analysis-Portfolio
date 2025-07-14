@@ -70,8 +70,20 @@ Here are some of my key data analysis and business intelligence projects:
 
 *[Add your dashboard projects here]*
 
-### Healthcare Analytics
-*[Add projects specifically related to healthcare data analysis, patient journey optimization, or pharmaceutical analytics]*
+### Business Case Development
+#### P2P Energy Trading Platform
+**Goal:** Efficient Energy Distribution case study and simulation
+
+**Description:** 
+• Conducted market analysis of energy distribution challenges, quantifying a ₹50 crore annual economic impact from electricity shortages in target regions.
+• Analysed usage patterns from 500+ IoT devices to optimize trading algorithms, resulting in 30% more efficient energy distribution in the simulation model.
+• Developed business case and ROI projection showing 3-year path to profitability, securing project approval from faculty panel.
+**Skills:** Data visualization, KPI development, dashboard design, stakeholder communication
+
+**Technology:** Power Point, Excel
+
+**Results:** 30% more efficient energy distribution and ROI projection showing 3-year path to profitability
+
 
 ## Professional Experience
 
@@ -105,15 +117,20 @@ Delhi Public School Ghaziabad Vasundhara
 
 ## Certifications
 **Google Cloud & Business Intelligence**
-- [Google Business Intelligence](link-if-available) (Completed) - Google Cloud
-- [Foundations of Business Intelligence](link-if-available) (Completed) - Google Cloud
+- [Google Business Intelligence](https://coursera.org/share/4b6795e61c9c1209e5687fb89eef6fcb) (Completed) - Google Cloud
+  - [Decisions, Decisions: Dashboards and Reports](https://coursera.org/share/549a751a10a44a01b8f97f16ac994f4c) (Completed) - Google Cloud
+  - [The Path to Insights: Data Models and Pipelines](https://coursera.org/share/7edfc2194380df1b6d4461a02edeb55b) (Completed) - Google Cloud
+  - [Foundations of Business Intelligence](https://coursera.org/share/0c4e67dc49f5cd420aa203d68eef0e7f) (Completed) - Google Cloud
 
 **Data Analytics & Visualization**
-- [Microsoft Excel: Advanced Excel Formulas & Functions](link-if-available) (Completed) - Microsoft
-- [Decisions, Decisions: Dashboards and Reports](link-if-available) (Completed) - Coursera
+- [Microsoft Excel: Advanced Excel Formulas & Functions](https://www.udemy.com/certificate/UC-fb058354-8190-4741-b127-03e2e3320d92/) (Completed) - Microsoft
+- [The Complete Tableau Analyst Bootcamp 2024](https://www.udemy.com/certificate/UC-8e16363f-9424-4d98-b661-49dcd4323674/) (Completed) - Coursera
 
 **Business Strategy & Consulting**
-- [BCG's Strategy Consulting Simulation](link-if-available) (Completed) - BCG
+- [BCG's Strategy Consulting Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/ntTvo6ru6Tq3A2JPq_BCG_kqoeNQYjWMTveojie_1694638783464_completion_certificate.pdf) (Completed) - BCG
+
+**Project Management**
+- [Project Management Foundation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/ntTvo6ru6Tq3A2JPq_BCG_kqoeNQYjWMTveojie_1694638783464_completion_certificate.pdf) (Completed) - LinkedIn
 
 ## Technical Skills
 - **Analytics:** BigQuery SQL, Python, ETL Pipelines, Data Modeling, KPI Development
